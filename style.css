@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+nav{
+    text-align: center;
+}
+
+.a{
+    margin-right: 100px;
+}
+
+.l{
+    border-left: 10px dotted black  ;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.m{
+    border-left: 10px dotted black  ;
+}
+
+.v{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+main p{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.b{
+    margin-top: 100px;
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.d{
+    border-top: 5px solid black ;
+}
+
+.u{
+    border-bottom: 5px solid black ;
+}
